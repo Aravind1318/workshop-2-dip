@@ -111,8 +111,8 @@ thread = Thread(target=detect_objects)
 thread.start()
 ```
 ### OUTPUT:
+<img width="540" height="393" alt="image" src="https://github.com/user-attachments/assets/7617788f-84bb-476c-9d32-71a1f8c4c9bb" />
 
-<img width="797" height="630" alt="Screenshot 2026-02-12 113518" src="https://github.com/user-attachments/assets/0d3cbfee-0bad-4ec5-9e6d-2c2cf50c9bbb" />
 
 ### Result:
 The webcam captures live video frames.
