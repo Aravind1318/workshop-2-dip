@@ -1,6 +1,6 @@
 # YOLOv4 Real-Time Object Detection Using Laptop Camera
-## VINOLIA ALAINA. R
-## 212224240184
+## ARAVIND P
+## 212224240015
 
 ### Aim:
 To perform real-time object detection using a pre-trained YOLOv4 model through a laptop webcam and display detected objects inline in a Jupyter Notebook.
